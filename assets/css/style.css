@@ -101,6 +101,31 @@ main {
   color: #ffffff;
 }
 
+#reasons {
+  width: 90%;
+  margin: 20px auto;
+}
+
+#reasons > h2 {
+  margin-bottom: 20px;
+  font-size: 280%;
+  text-align: center;
+}
+
+#benefits hr {
+  border-top: 1px solid #3a3a3a;
+  margin: 5px 0;
+}
+
+#benefits  p {
+  padding: 0 20px;
+}
+#benefits-physical > div, #benefits-mental > div  {
+  margin: 20px;
+  line-height: 20px;
+}
+
+
 #social-networks{
   text-align: center;
   padding: 20px 0;
